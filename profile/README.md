@@ -35,6 +35,8 @@ Our frontend simplifies data understanding by visually mapping localized plastic
 
 Checkout our [frontend application](https://github.com/OceanEcoWatch/OceanEcoWatchMap).
 
+![Software Architecture](./project-architecture.png)
+
 ## Prototype Fund
 
 We are thrilled to announce that our project is part of [prototype fund round 15](https://prototypefund.de/en/project/ocean-eco-watch/). Prototype Fund supports us for the next six months. This funding will be used to refine our detection model and to develop an interactive map for visualizing marine debris.
