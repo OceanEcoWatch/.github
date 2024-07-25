@@ -19,7 +19,7 @@ Our solution comprises three open-source subsystems:
 
 The plastic detection service forms the core of our project and enables the detection of floating plastic. To do this, we use satellite images, which are then analyzed by an AI model. Our method for identifying plastic is based on existing models that have been published in scientific publications.
 
-Checkout our [cloud-based pipeline for detecting marine debris](hhttps://github.com/OceanEcoWatch/PlasticDetectionService).
+Checkout our [cloud-based pipeline for detecting marine debris](https://github.com/OceanEcoWatch/PlasticDetectionService).
 
 Checkout our [plastic detection model](https://github.com/OceanEcoWatch/PlasticDetectionModel).
 
