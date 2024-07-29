@@ -22,7 +22,8 @@ The plastic detection service forms the core of our project and enables the dete
 Checkout our [cloud-based pipeline for detecting marine debris](https://github.com/OceanEcoWatch/PlasticDetectionService).
 
 Checkout our deployed models:
-[plastic detection model](https://github.com/OceanEcoWatch/PlasticDetectionModel).
+[plastic detection model](https://github.com/OceanEcoWatch/PlasticDetectionModel)
+
 [mados](https://github.com/OceanEcoWatch/mados)
 
 ### Making Data Available
